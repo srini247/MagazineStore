@@ -19,5 +19,5 @@
 
  * Models contains all the data objects.
 
- * failed webapi calls will return null object and a error message is logged to console.
+ * Failed webapi calls will return null object and a error message is logged to console.
 
