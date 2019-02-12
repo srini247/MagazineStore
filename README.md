@@ -7,8 +7,9 @@
 3. Open Visual studio 2017 --> File --> open --> Project/Solution and browse to unzipped MagazineStore-master folder.
 4. Select MazineStore.sln file and click open to open project in Visual studio.
 5. Security Warning message might be displayed, clik OK to continue and  open project in Visual studio.
-3. Hit F6 Build project to load necessary Nuget packages.
-4. Hit (ctlr + F5) to run in realease mode.
+6. Hit F6 Build project to load necessary Nuget packages.
+7. Hit (ctlr + F5) to run in realease mode.
+8. Once the application is executed , outPut is logged to console.
 
 # Magazine Store Application Details.
 
