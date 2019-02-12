@@ -1,4 +1,4 @@
-# MagazineStore
+# Magazine Store Application
 
 # To run this application 
 
