@@ -2,7 +2,7 @@
 
 # To run this application 
 
-1. clone or download application by using clone/download button on top right.
+1. click clone/download button on top right ans select download zip.this will down the project source as .zip file
 2. goto downloaded folder , open MagazineStore.sln file in visual studio 2017.
 3. Build project to load necessary Nuget packages.
 4. run (ctlr + f5) to run in realease mode.
